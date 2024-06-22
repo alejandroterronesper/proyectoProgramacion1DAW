@@ -1,0 +1,8 @@
+
+Titulo: El grito
+Fecha: 1893
+Técnica: Óleo sobre lienzo
+Descripción: Presenta a una figura andrógina en primer plano con un gesto de angustia que transmite gran expresividad y fuerza psicológica
+Precio estimado: 13711 euros y 25 céntimos.
+Ruta imagen: ./img/grito.png
+Artista: Edvard Munch

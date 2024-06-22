@@ -1,0 +1,24 @@
+Titulo: El caminante sobre el mar de nubes
+Fecha: 1818
+Técnica: Óleo sobre lienzo
+Descripción: Se percibe en el individuo aislamiento y soledad
+Precio estimado: 16004 euros y 59 céntimos.
+Ruta imagen: caminante.jpg
+Artista: Joseph Mallord William Turner
+
+Titulo: El sueño de la razón produce monstruos
+Fecha: 1799
+Técnica: Grabado
+Descripción: Cuando la razón deja de estar atenta a la lógica y se dejar llevar por la fantasía
+Precio estimado: 12588 euros y 98 céntimos.
+Ruta imagen: monstruo.jpg
+Artista: Francisco José de Goya y Lucientes
+
+Titulo: El incendio de las Cámaras de los Lores y de los Comunes
+Fecha: 1834
+Técnica: Óleo sobre lienzo
+Descripción: Turner fue testigo del incendio que quemó la mayor parte del Palacio de Westminster el 16 de octubre de 1834
+Precio estimado: 16004 euros y 59 céntimos.
+Ruta imagen: incendio.jpg
+Artista: Joseph Mallord William Turner
+
